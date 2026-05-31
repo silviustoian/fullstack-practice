@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(15, 15, 91);
+  color: white;
+  display: flex;
+  padding: 10rem;
+  margin: 20rem;
+  text-align: center;
+}
+
+#home-score,
+#guest-score {
+  font-size: 4rem;
+  margin: 0.5rem 0;
+  background: black;
+  padding: 1rem;
+  color: red;
+  text-align: center;
+}
+
+.container button {
+    background-color: transparent;
+    color: white;
+    padding: 0.5rem;
+}
