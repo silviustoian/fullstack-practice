@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s055iav",
+  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0ht/s0mpin34b9/head",
+  "scripts": {
+    "start": "node init && vite",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}

@@ -3,7 +3,7 @@
   "description": "https://scrimba.com/fullstack-path-c0fullstack/~06r/s00n3clv93/head",
   "scripts": {
     "watch": "webpack -w",
-    "build": "webpack"
+    "build": "node init && webpack"
   },
   "dependencies": {
     "webpack": "^2.0"
