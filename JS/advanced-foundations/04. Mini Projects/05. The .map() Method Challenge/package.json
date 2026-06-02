@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s057tui",
+  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0h2/s0ukfqe88f/head",
+  "scripts": {
+    "start": "node init && vite",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
