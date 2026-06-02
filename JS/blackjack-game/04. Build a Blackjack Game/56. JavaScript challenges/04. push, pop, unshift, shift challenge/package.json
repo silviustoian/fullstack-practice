@@ -2,9 +2,9 @@
   "name": "Scrim-s01ribg",
   "description": "https://scrimba.com/fullstack-path-c0fullstack/~07k/s0ht4q2u6t/head",
   "scripts": {
-    "start": "vite",
-    "dev": "vite",
-    "build": "vite build",
+    "start": "node init && vite",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
